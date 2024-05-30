@@ -48,7 +48,7 @@ OpenAI, 개발자는 어떻게 사용해? 행사는 AI 스킬을 향상하고 AI
 나도 마이크로소프트 학생홍보대사 신청하기!  
 * [마이크로소프트 학생홍보대사 신청링크](https://aka.ms/mlsakorea)
 
-<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/mlsa.png?raw=true" width=70% height=auto alt="mlsa"/>
+<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/mlsa.png?raw=true" width=50% height=auto alt="mlsa"/>
 
 
 ## 대구 경북 개발자 커뮤니티 채널 안내
